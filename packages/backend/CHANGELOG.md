@@ -1,5 +1,21 @@
 # example-backend
 
+## 0.2.13
+
+### Patch Changes
+
+- Updated dependencies [681111228]
+- Updated dependencies [234e7d985]
+- Updated dependencies [a91aa6bf2]
+- Updated dependencies [39b05b9ae]
+  - @backstage/plugin-kubernetes-backend@0.2.6
+  - @backstage/plugin-kafka-backend@0.2.0
+  - @backstage/plugin-catalog-backend@0.5.5
+  - @backstage/plugin-auth-backend@0.2.12
+  - example-app@0.2.13
+  - @backstage/backend-common@0.5.1
+  - @backstage/plugin-app-backend@0.3.5
+
 ## 0.2.12
 
 ### Patch Changes
